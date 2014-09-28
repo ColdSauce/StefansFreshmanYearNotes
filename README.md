@@ -18,3 +18,5 @@ PSYC.101.10 - Introduction to Psychology
 UWRT.150.39 - FYW: Writing Seminar
 
 I will update them every day.
+
+I am getting a scanner soon which will dramatically increase the quality of the notes.
