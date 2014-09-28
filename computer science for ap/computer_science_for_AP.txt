@@ -1,0 +1,61 @@
+
+	* Primitive data types
+	* Arrays
+	* Objects
+
+Heterogeneous data structures
+     - Multiple data types
+Homogeneous data structures
+     - One data type
+     - Interesting things about them
+          - How to use
+          - Organization
+               - Performance 
+
+Array -
+     - Fixed size
+     - Numerical Index
+     - Fast random access
+          - What makes it possible
+               - All elements same type 
+               - Fixed size
+     - All elements are all next to each other
+
+Day 2
+
+Difficulty of arrays
+     - Resizing
+           - By creating a new copy of the array.
+     - Deleting an index.
+     - Insertion of an item.
+          - Both of these are slow in start and middle
+
+Linked List 
+     - Every piece of data has a concept of a "next".
+     - Node
+          - Each has 2 properties.
+               - Data
+               - Next
+          - List
+               - Is made up of multiple nodes.
+               - Location of nodes is not important.
+               - What is required to transverse?
+                    - Head
+                         - The first node.
+                    - Tail
+                         - Purpose 
+                              - To speed up operations. 
+     - Has internal references to objects
+     - Add a node to the front of a list
+          - Steps
+               - Create new object 
+               - Link to new node.
+               - Change this to HEAD.
+     - Very important for steps to get done in the right order.
+     - Very important to look at the boundary conditions
+          - The special cases.
+               - If the list is empty.
+               - There are many items.
+               - There is one item.
+
+
